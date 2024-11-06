@@ -14,11 +14,10 @@ https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&f
 ----------------------------------------------------------------------------
 
 We inferred the chemical composition of Jupiter's troposphere from FIR spectra observed with PACS onboard HERSCHEL.
-![Herschel/PACS Jupiter observations](/images/jupiter.png)  
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; text-align: center;">
   <figure>
-    <img src="(/images/jupiter.png" alt="Herschel/PACS Jupiter observations" style="width: 85%;">
+    <img src="/images/jupiter.png" alt="Herschel/PACS Jupiter observations" style="width: 85%;">
     <figcaption>Herschel/PACS Jupiter observations</figcaption>
   </figure>
 
