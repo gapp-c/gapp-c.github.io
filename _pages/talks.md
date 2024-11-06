@@ -18,14 +18,14 @@ Posters
 
 EPSC 2024: Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations
 ----------------------------------------------------------------------------
-Berlin, Germany
+Berlin, Germany  
 September 10, 2024
 
 [pdf](/files/epsc2024.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract)
 
 Exoplanets 5: WASP-121 b’s transmission spectrum observed with JWST/NIRSpec G395H reveals partially dissociated atmosphere
 ----------------------------------------------------------------------------
-Leiden, The Netherlands
+Leiden, The Netherlands  
 June 20, 2024
 
 [pdf](/files/exoplanets5.pdf)

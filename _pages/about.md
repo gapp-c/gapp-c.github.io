@@ -12,10 +12,7 @@ PhD student at the Department for Atmospheric Physics of Exoplanets (APEx) at MP
 Address
 ======
 
-Max-Planck-Institut für Astronomie
-
-Königstuhl 17
-
-69117 Heidelberg
-
-Germany
+Max-Planck-Institut für Astronomie  
+Königstuhl 17  
+69117 Heidelberg  
+Germany  
