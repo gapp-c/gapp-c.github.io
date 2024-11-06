@@ -10,7 +10,7 @@ redirect_from:
 PhD student at the Department for Atmospheric Physics of Exoplanets (APEx) at MPIA, Heidelberg, Germany
 
 Address
-------
+======
 
 Max-Planck-Institut für Astronomie
 
