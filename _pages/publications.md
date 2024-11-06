@@ -28,4 +28,4 @@ We inferred the chemical composition of Jupiter's troposphere from FIR spectra o
 
 </div>
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract), [Poster summary](/files/epsc2024.pdf)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract), [Poster summary (presented at EPSC2024)](/files/epsc2024.pdf)
