@@ -17,5 +17,4 @@ Posters
 EPSC 2024: Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations
 ----------------------------------------------------------------------------
 
-[NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract) [Poster summary](/files/epsc2024.pdf)
-
+[pdf](/files/epsc2024.pdf) [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract)
