@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Talks & Posters"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-
-Talks
-======
 
 EPSC 2024: WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere
 ----------------------------------------------------------------------------
@@ -20,5 +17,5 @@ Posters
 EPSC 2024: Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations
 ----------------------------------------------------------------------------
 
-[NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract)
+[NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract) [Poster summary](/files/epsc2024.pdf)
 
