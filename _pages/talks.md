@@ -34,7 +34,7 @@ Exoclimes VI: The Transmission Spectrum of WASP-121 b through JWST/NIRSpec G395H
 Exeter, UK  
 June 30, 2023  
 
-Advanced School on Exoplanetary Science 4: Transmission Spectrum of WASP-121 b using JWST/NIRSpec G395H
+4th Advanced School on Exoplanetary Science: Transmission Spectrum of WASP-121 b using JWST/NIRSpec G395H
 ----------------------------------------------------------------------------
 Vietri sul Mare, Italy  
 May 23, 2023  
