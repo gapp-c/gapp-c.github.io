@@ -10,7 +10,7 @@ You can find a list of all my first-author publications on the [Astrophysics Dat
 https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22%5Egapp%2C%20c%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
-2024: Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations
+Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations (2024, A&A, 688, A10)
 ----------------------------------------------------------------------------
 
 We inferred the chemical composition of Jupiter's troposphere, the part of the atmosphere where the visible ocher clouds reside, from FIR spectra observed with PACS onboard the Herschel Space Observatory. The observations show numerous spectral features caused by ammonia, phosphine, methane, water and deuterated hydrogen in Jupiter (see right Figure below). While all of these molecules have been detected in Jupiter in similar quantities before, our analysis of the Herschel observations suggests a faster depletion of phosphine out of the upper troposphere than what has been measured before. In Jupiter, vertical mixing transports phosphine from the deep atmosphere to the upper troposphere, where it quickly gets dissociated by Solar radiation. Our analysis suggests that the PACS observations are especially sensitive to dry parts of Jupiter’s atmosphere that are poor in clouds and thus provide less shelter against photodissociation. Therefore, the faster depletion of phosphine out of the upper troposphere we found might be especially important for these regions of the Jovian atmosphere.  
