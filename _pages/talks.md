@@ -12,17 +12,53 @@ Berlin, Germany
 September 11, 2024  
 [ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..191G/abstract)
 
+Exocoffee: Abundances of trace constituents in Jupiter’s atmosphere inferred from Herschel/PACS observations
+----------------------------------------------------------------------------
+Heidelberg, Germany  
+July 23, 2024  
+[Exocoffee homepage](https://sites.google.com/view/exocoffee)
+
 The Great Link Workshop: Thermal dissociation and SiO in the Ultra-Hot Jupiter WASP-121 b
 ----------------------------------------------------------------------------
-MPIA, Heidelberg, Germany  
+Heidelberg, Germany  
 July 12, 2024  
 [Workshop homepage](https://the-great-link.github.io/#)
 
-Exocoffee: Abundances of trace constituents in Jupiter’s atmosphere inferred from Herschel/PACS observations
+The University of Kansas Astro Seminar: The Transmission Spectrum of WASP-121 b through JWST/NIRSpec G395H
 ----------------------------------------------------------------------------
-MPIA, Heidelberg, Germany  
-July 23, 2024  
-[Exocoffee homepage](https://sites.google.com/view/exocoffee)
+Online  
+November 17, 2023  
+
+Exoclimes VI: The Transmission Spectrum of WASP-121 b through JWST/NIRSpec G395H
+----------------------------------------------------------------------------
+Exeter, UK  
+June 30, 2023  
+
+Advanced School on Exoplanetary Science 4: Transmission Spectrum of WASP-121 b using JWST/NIRSpec G395H
+----------------------------------------------------------------------------
+Vietri sul Mare, Italy  
+May 23, 2023  
+[School homepage](https://ases4.web.roma2.infn.it/#)  
+
+SPP 1992 all-hands-on-deck meeting 2021: Deciphering Jupiter’s atmospheric chemistry as a benchmark for extrasolar gas giants using Herschel/PACS
+----------------------------------------------------------------------------
+Online  
+October 07, 2021  
+[Meeting homepage](https://www-astro.physik.tu-berlin.de/exoplanet-diversity/event/spp-1992-all-hands-on-deck-meeting-2021/)  
+
+
+Annual Meeting of the Astronomische Gesellschaft 2021: Deciphering Jupiter’s atmospheric chemistry as a benchmark for extrasolar gas giants using Herschel/PACS
+----------------------------------------------------------------------------
+Online  
+September 16, 2021  
+[Meeting homepage](https://ag2021.astronomische-gesellschaft.de/index.php)  
+
+AOGS 2021: Characterization of Jupiter’s Atmosphere Using Far Infrared Spectra Measured with PACS Onboard the Herschel Space Observatory
+----------------------------------------------------------------------------
+Online  
+August 02, 2021  
+[Meeting homepage](https://www.asiaoceania.org/aogs2021/public.asp?page=home.html)  
+
 
 Posters
 ======
@@ -37,10 +73,9 @@ Exoplanets 5: WASP-121 b’s transmission spectrum observed with JWST/NIRSpec G3
 ----------------------------------------------------------------------------
 Leiden, The Netherlands  
 June 20, 2024  
-[pdf](/files/exoplanets5.pdf)
 
 EPSC 2020: Retrieval of Jupiter's atmospheric parameters using far infrared spectra measured with PACS onboard the Herschel Space Observatory
 ----------------------------------------------------------------------------
 Online  
 September 21 - October 9, 2020  
-[ADS](https://ui.adsabs.harvard.edu/abs/2020EPSC...14..152G/abstract)
+[pdf](/files/epsc2020.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020EPSC...14..152G/abstract)
