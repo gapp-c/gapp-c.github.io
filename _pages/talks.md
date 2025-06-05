@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+<span style="color:red">UPCOMING:</span> Poster
+
 University of Newcastle, Physics research seminar: The Ultra-Hot Jupiter WASP-121b: Opportunity and challenge for atmospheric characterization
 ----------------------------------------------------------------------------
 Newcastle, Australia  
