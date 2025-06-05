@@ -12,13 +12,13 @@ https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&f
 WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere ([2025, AJ 169 341](https://doi.org/10.3847/1538-3881/ad9c6e))
 ----------------------------------------------------------------------------
 
-WASP-121b is an extrasolar gas giant orbiting an F6-type star in a distance less than two times the star's diameter, making it one of the hottest planets known. Its transmission spectrum observed with JWST/NIRSpec (see below) shows a clear absorption feature of silicon monoxide (SiO) between 4.0 and 4.3µm. This molecule has not been detected in any planet's atmosphere before, because in gaseous planets, silicon is expected to be condensed into clouds or locked in the deep interior unless atmospheric temperatures become as high as they are in WASP-121b. With the detection of SiO, we can aim to quantify the amount of rocky material that was accreted by the planet during its formation and migration to its current orbit as any silicate rocks that hit the planet in the past will have been vaporized into the atmospheric SiO we see today.  
-In addition to SiO, the transmission spectrum shows a fairly shallow water (H_2O) and a massive carbon monoxide (CO) absorption feature. Three-dimensional models suggest that the size of the CO feature is not only set by the atmosphere's CO abundance, but also by the dissociation of molecular hydrogen (H_2), the primary constituent of the atmosphere, on the dayside. The water feature is not sensitive to this dayside effect, because water, unlike carbon monoxide, dissociates, too. Thus, the transmission spectrum we see is the composite of atmospheric conditions in WASP-121b's two very distinct hemispheres.
+WASP-121b is an extrasolar gas giant orbiting an F6-type star in a distance less than two times the star's diameter, making it one of the hottest planets known. Its transmission spectrum observed with JWST/NIRSpec (see below) shows a clear absorption feature of gas-phase silicon monoxide (SiO) between 4.0 and 4.3µm. This molecule has not been detected in any planet's atmosphere before, because in gaseous planets, silicon is expected to be condensed into clouds or locked in the deep interior unless atmospheric temperatures become as high as they are in WASP-121b. With the detection of silicon monoxide, we can aim to quantify the amount of rocky material that was accreted by the planet during its formation and migration to its current orbit as any silicate rocks that hit the planet in the past will have been vaporized into the atmospheric silicon monoxide we see today.  
+In addition to silicon monoxide, the transmission spectrum shows a fairly shallow water (H~2~O) and a massive carbon monoxide (CO) absorption feature. Three-dimensional models suggest that the carbon monoxide feature is not only set by the atmospheric carbon monoxide abundance, but also by the thermal dissociation of molecular hydrogen (H~2~), the primary constituent of the atmosphere, into atomic hydrogen on the dayside. By reducing the dayside atmosphere's mean molecular weight, H~2~ dissociation boosts the absorption feature of CO. The water feature is not sensitive to this effect, because water, unlike carbon monoxide, dissociates on the dayside, too. Thus, the transmission spectrum we see is the composite of atmospheric conditions in WASP-121b's two very distinct hemispheres.
 
 ![WASP-121b's transmission spectrum observed with JWST/NIRSpec](/images/w121b_transmission-spectrum.png)  
 *WASP-121b's transmission spectrum*
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250602199G/abstract). 
+[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250602199G/abstract)  
 [MPIA's press release](https://www.mpia.de/aktuelles/wissenschaft/2025-03-wasp-121b)
 
 
@@ -41,5 +41,5 @@ In addition to presenting new constraints on the detected molecules' abundances 
 
 </div>
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract). 
+[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract)  
 [Poster summary (presented at EPSC2024)](/files/epsc2024.pdf)
