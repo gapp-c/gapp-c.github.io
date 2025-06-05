@@ -18,7 +18,7 @@ In addition to silicon monoxide, the transmission spectrum shows a fairly shallo
 ![WASP-121b's transmission spectrum observed with JWST/NIRSpec](/images/w121b_transmission-spectrum.png)
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250602199G/abstract)  
-[MPIA's press release](https://www.mpia.de/aktuelles/wissenschaft/2025-03-wasp-121b)
+[MPIA's press release](https://www.mpia.de/news/science/2025-03-wasp-121b)
 
 
 Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations ([2024, A&A, 688, A10](https://www.aanda.org/articles/aa/full_html/2024/08/aa47345-23/aa47345-23.html))
