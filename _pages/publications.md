@@ -6,8 +6,17 @@ author_profile: true
 ---
 
 
-You can find a list of all my first-author publications on the [Astrophysics Data System (ADS)](
-https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22%5Egapp%2C%20c%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can find a list of my publications on the [Astrophysics Data System (ADS)](
+https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22gapp%2C%20c%22%20%20year%3A(2015-)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+
+WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere ([2025, AJ 169 341](https://doi.org/10.3847/1538-3881/ad9c6e))
+----------------------------------------------------------------------------
+
+![WASP-121b's transmission spectrum observed with JWST/NIRSpec](/images/w121b_transmission-spectrum.png)  
+*WASP-121b's transmission spectrum observed with JWST/NIRSpec shows a clear absorption feature of SiO between 4.0 and 4.3µm as well as a massive CO feature starting at 4.3µm that is likely inflated by H2 dissociation on the dayside.*
+
+[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250602199G/abstract)
+[MPIA's press release](https://www.mpia.de/aktuelles/wissenschaft/2025-03-wasp-121b)
 
 
 Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations ([2024, A&A, 688, A10](https://www.aanda.org/articles/aa/full_html/2024/08/aa47345-23/aa47345-23.html))
@@ -29,4 +38,5 @@ In addition to presenting new constraints on the detected molecules' abundances 
 
 </div>
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract), [Poster summary (presented at EPSC2024)](/files/epsc2024.pdf)
+[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract)
+[Poster summary (presented at EPSC2024)](/files/epsc2024.pdf)

@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+University of Newcastle, Physics research seminar: The Ultra-Hot Jupiter WASP-121b: Opportunity and challenge for atmospheric characterization
+----------------------------------------------------------------------------
+Newcastle, Australia  
+November 28, 2024  
 
 EPSC 2024: WASP-121 b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere
 ----------------------------------------------------------------------------
@@ -24,7 +28,7 @@ Heidelberg, Germany
 July 12, 2024  
 [Workshop homepage](https://the-great-link.github.io/#)
 
-The University of Kansas Astro Seminar: The Transmission Spectrum of WASP-121 b through JWST/NIRSpec G395H
+University of Kansas, Astro Seminar: The Transmission Spectrum of WASP-121 b through JWST/NIRSpec G395H
 ----------------------------------------------------------------------------
 Online  
 November 17, 2023  
@@ -67,15 +71,16 @@ EPSC 2024: Abundances of trace constituents in Jupiter's atmosphere inferred fro
 ----------------------------------------------------------------------------
 Berlin, Germany  
 September 10, 2024  
-[pdf](/files/epsc2024.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract)
+[PDF](/files/epsc2024.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2024EPSC...17..208G/abstract)
 
 Exoplanets 5: WASP-121 b’s transmission spectrum observed with JWST/NIRSpec G395H reveals partially dissociated atmosphere
 ----------------------------------------------------------------------------
 Leiden, The Netherlands  
 June 20, 2024  
+[PDF](/files/exoplanets5.pdf)
 
 EPSC 2020: Retrieval of Jupiter's atmospheric parameters using far infrared spectra measured with PACS onboard the Herschel Space Observatory
 ----------------------------------------------------------------------------
 Online  
 September 21 - October 9, 2020  
-[pdf](/files/epsc2020.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020EPSC...14..152G/abstract)
+[PDF](/files/epsc2020.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020EPSC...14..152G/abstract)
