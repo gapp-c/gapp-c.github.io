@@ -5,12 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-<span style="color:red">UPCOMING:</span> Poster
+<span style="color:red">UPCOMING:</span> Poster @ EAS annual meeting: Thermal dissociation and SiO in the ultrahot Jupiter WASP-121b
+----------------------------------------------------------------------------
+Cork, Ireland  
+June 26-27, 2025
 
 University of Newcastle, Physics research seminar: The Ultra-Hot Jupiter WASP-121b: Opportunity and challenge for atmospheric characterization
 ----------------------------------------------------------------------------
 Newcastle, Australia  
-November 28, 2024  
+November 28, 2024
 
 EPSC 2024: WASP-121 b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere
 ----------------------------------------------------------------------------
