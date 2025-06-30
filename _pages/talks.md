@@ -5,10 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-<span style="color:red">UPCOMING:</span> Poster @ EAS annual meeting: Thermal dissociation and SiO in the ultrahot Jupiter WASP-121b
+<span style="color:red">UPCOMING:</span> Exocoffee: WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere
 ----------------------------------------------------------------------------
-Cork, Ireland  
-June 26-27, 2025
+Heidelberg, Germany  
+July 29, 2025  
+[Exocoffee homepage](https://sites.google.com/view/exocoffee)
 
 University of Newcastle, Physics research seminar: The Ultra-Hot Jupiter WASP-121b: Opportunity and challenge for atmospheric characterization
 ----------------------------------------------------------------------------
@@ -71,6 +72,12 @@ August 02, 2021
 
 Posters
 ======
+
+EAS annual meeting 2025: Thermal dissociation and SiO in the ultrahot Jupiter WASP-121b
+----------------------------------------------------------------------------
+Cork, Ireland  
+June 26-27, 2025
+[PDF](/files/eas2025.pdf)
 
 EPSC 2024: Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations
 ----------------------------------------------------------------------------
