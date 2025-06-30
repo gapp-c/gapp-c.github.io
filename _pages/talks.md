@@ -76,7 +76,7 @@ Posters
 EAS annual meeting 2025: Thermal dissociation and SiO in the ultrahot Jupiter WASP-121b
 ----------------------------------------------------------------------------
 Cork, Ireland  
-June 26-27, 2025
+June 26-27, 2025  
 [PDF](/files/eas2025.pdf)
 
 EPSC 2024: Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations
