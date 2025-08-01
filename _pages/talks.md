@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<span style="color:red">UPCOMING:</span> Exocoffee: WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere
+Exocoffee: WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere
 ----------------------------------------------------------------------------
 Heidelberg, Germany  
 July 29, 2025  
