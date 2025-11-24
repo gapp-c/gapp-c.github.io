@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV](/files/cv.pdf)
+[Click here to view my CV](/files/cv_gapp.pdf)
 
