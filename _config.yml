@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Cyril Gapp"
 title_separator          : "-"
 name                     : &name "Cyril Gapp"
-description              : &description "PhD student at Max-Planck-Institut für Astronomie"
+description              : &description "Postdoc at Ludwig-Maximilians-Universität München"
 url                      : https://gapp-c.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gapp-c/gapp-c.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Cyril Gapp"
   pronouns         : "he/his"  
   bio              : "Characterization of (exo-)planetary atmospheres using space based telescopes"
-  location         : "Heidelberg, Germany"
-  employer         : "Max-Planck-Institut für Astronomie"
+  location         : "München, Germany"
+  employer         : "Ludwig-Maximilians-Universität"
   uri              : # URL
-  email            : "gapp@mpia.de" 
+  email            : "cyril.gapp@lmu.de" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Gapp,+C"
