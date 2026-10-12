@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cyril Gapp"
+title                    : "Dr. Cyril Gapp"
 title_separator          : "-"
 name                     : &name "Cyril Gapp"
 description              : &description "Postdoc at Ludwig-Maximilians-Universität München"

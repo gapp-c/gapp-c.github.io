@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cyril Gapp"
+title: "Dr. Cyril Gapp"
 author_profile: true
 redirect_from: 
   - /about/
