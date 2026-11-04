@@ -9,6 +9,17 @@ author_profile: true
 You can find a list of my publications on the [Astrophysics Data System (ADS)](
 https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22gapp%2C%20c%22%20%20year%3A(2015-)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
+Atmospheric asymmetries in WASP-121b revealed by rotational transits detected with JWST ([2026, Nature Astronomy, 10, 1323](https://doi.org/10.1038/s41550-026-02887-6))
+----------------------------------------------------------------------------
+
+In this paper, I present a conclusive detection of rotational modulations of WASP-121b’s transmission spectrum in observations with NIRISS and NIRSpec onboard JWST. This finding demonstrates that the transmission spectrum probes different longitudes in the planet’s atmosphere as a function of orbital phase due to the planet’s rotation during transit. The phase-resolved transmission spectrum reveals increased CO, but decreased H<sub>2</sub>O absorption in the planet towards the end of the transit. This firstly shows that WASP-121b’s temperature structure is asymmetric about the sub-stellar point with higher temperatures in the eastern than in the western half of the dayside. And secondly, H<sub>2</sub>O depletes out of the atmosphere as hotter parts of the planet are probed while CO remains abundant thanks to its stability against thermal dissociation.
+
+![Visualization of WASP-121b's orbital motion with the corresponding change of the transmission spectrum](/images/visualization.pdf)
+
+[ADS](https://ui.adsabs.harvard.edu/abs/2026NatAs..10.1323G/abstract)  
+[MPIA's press release](https://www.mpia.de/aktuelles/wissenschaft/2026-04-wasp-121-b?c=5230012)  
+[Talk slides (presented at Exoplanets 6)](https://doi.org/10.5281/zenodo.21218221)
+
 WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere ([2025, AJ 169 341](https://doi.org/10.3847/1538-3881/ad9c6e))
 ----------------------------------------------------------------------------
 
