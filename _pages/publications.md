@@ -6,18 +6,28 @@ author_profile: true
 ---
 
 
-You can find a list of my publications on the [Astrophysics Data System (ADS)](
-https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22gapp%2C%20c%22%20%20year%3A(2015-)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can find a list of my publications on [SciX](
+https://scixplorer.org/search?p=1&q=author%3A%22gapp%2C+cyril%22++year%3A2014-&sort=score+desc&sort=date+desc&d=astrophysics).
+
+The SPACE Program II: No Discernible Spectral Features in the Transmission Spectrum of the Sub-Neptune HD 191939 b Observed with HST/WFC3 ([2026, AJ 172 202](https://doi.org/10.3847/1538-3881/ae9866))
+----------------------------------------------------------------------------
+
+The atmospheres of sub-Neptunes provide a window into their internal structure and history, shedding light on the origin of this common, but enigmatic, class of exoplanets. However, the physical and chemical processes that shape sub-Neptunes’ transmission spectra, in particular cloud and haze formation, are not well understood. To identify possible correlations between transmission spectra and UV irradiation, the Sub-Neptune Planetary Atmosphere Characterization Experiment (SPACE) Program observed an array of sub-Neptunes and their host stars using the Hubble Space Telescope (HST), measuring the planets’ transmission spectra between 1.1 and 1.7 μm with the Wide Field Camera 3 (WFC3) and the stars’ UV spectra with the Space Telescope Imaging Spectrograph (STIS). Here, we present the observations of HD 191939 b carried out as part of the SPACE Program, which reveal no significant spectral features in the transmission spectrum. The data deliver moderate evidence at significance levels between 2.0σ and 3.2σ against a cloud-free atmosphere with solar metallicity, rendering this scenario unlikely, but still possible. A supersolar metallicity of HD 191939 b might be consistent with the known trend of increasing atmospheric metallicity with decreasing planet mass. Both hydrocarbon haze formation and cloud condensation can be efficient at HD 191939 b’s zero-albedo equilibrium temperature of (880 ± 20) K, particularly in atmospheres with supersolar metallicity, possibly additionally muting absorption features.
+
+![HD 191939 b's HST/WFC3 light curve and transmission spectrum](/images/visualization.pdf)
+
+[SciX](https://scixplorer.org/abs/2026AJ....172..202G/abstract)  
+[Poster (presented at Exoplanets 6)](https://zenodo.org/records/22644481)
 
 Atmospheric asymmetries in WASP-121b revealed by rotational transits detected with JWST ([2026, Nature Astronomy, 10, 1323](https://doi.org/10.1038/s41550-026-02887-6))
 ----------------------------------------------------------------------------
 
-In this paper, I present a conclusive detection of rotational modulations of WASP-121b’s transmission spectrum in observations with NIRISS and NIRSpec onboard JWST. This finding demonstrates that the transmission spectrum probes different longitudes in the planet’s atmosphere as a function of orbital phase due to the planet’s rotation during transit. The phase-resolved transmission spectrum reveals increased CO, but decreased H<sub>2</sub>O absorption in the planet towards the end of the transit. This firstly shows that WASP-121b’s temperature structure is asymmetric about the sub-stellar point with higher temperatures in the eastern than in the western half of the dayside. And secondly, H<sub>2</sub>O depletes out of the atmosphere as hotter parts of the planet are probed while CO remains abundant thanks to its stability against thermal dissociation.
+In this paper, we present a conclusive detection of rotational modulations of WASP-121b’s transmission spectrum in observations with NIRISS and NIRSpec onboard JWST. This finding demonstrates that the transmission spectrum probes different longitudes in the planet’s atmosphere as a function of orbital phase due to the planet’s rotation during transit. The phase-resolved transmission spectrum reveals increased CO, but decreased H<sub>2</sub>O absorption in the planet towards the end of the transit. This firstly shows that WASP-121b’s temperature structure is asymmetric about the sub-stellar point with higher temperatures in the eastern than in the western half of the dayside. And secondly, H<sub>2</sub>O depletes out of the atmosphere as hotter parts of the planet are probed while CO remains abundant thanks to its stability against thermal dissociation.
 
 ![Visualization of WASP-121b's orbital motion with the corresponding change of the transmission spectrum](/images/visualization.pdf)
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2026NatAs..10.1323G/abstract)  
-[MPIA's press release](https://www.mpia.de/aktuelles/wissenschaft/2026-04-wasp-121-b?c=5230012)  
+[SciX](https://scixplorer.org/abs/2026NatAs..10.1323G/abstract)  
+[MPIA's press release](https://www.mpia.de/news/science/2026-04-wasp-121-b?c=5313826)  
 [Talk slides (presented at Exoplanets 6)](https://doi.org/10.5281/zenodo.21218221)
 
 WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere ([2025, AJ 169 341](https://doi.org/10.3847/1538-3881/ad9c6e))
@@ -28,7 +38,7 @@ In addition to silicon monoxide, the transmission spectrum shows a fairly shallo
 
 ![WASP-121b's transmission spectrum observed with JWST/NIRSpec](/images/w121b_transmission-spectrum.png)
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2025AJ....169..341G/abstract)  
+[SciX](https://scixplorer.org/abs/2025AJ....169..341G/abstract)  
 [MPIA's press release](https://www.mpia.de/news/science/2025-03-wasp-121b)  
 [Poster summary (presented at EAS2025)](/files/eas2025.pdf)
 
@@ -52,5 +62,5 @@ In addition to presenting new constraints on the detected molecules' abundances 
 
 </div>
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A..10G/abstract)  
+[SciX](https://scixplorer.org/abs/2024A%26A...688A..10G/abstract)  
 [Poster summary (presented at EPSC2024)](/files/epsc2024.pdf)
